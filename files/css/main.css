@@ -1,0 +1,20 @@
+#data{
+    display: flex;
+    flex-direction: column;
+    padding-right:70% ;
+}
+fieldset{
+    font-weight:bold;
+    background-color: cadetblue;
+}
+form{
+    margin-bottom: 60px;
+}
+#search{
+    display: flex;
+    flex-direction: column;
+    padding-right:70% ;
+}
+body{
+    background-color: aquamarine;
+}

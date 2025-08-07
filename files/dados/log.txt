@@ -1,0 +1,1 @@
+{"name":"Profac","mail":"gen@gmail.com","nickname":"Umbrella","n1":"4","n2":"56"}{"name":"lin ling","mail":"x@gmail.com","nickname":"nice","n1":"1","n2":"0"}
