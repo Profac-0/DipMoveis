@@ -1,1 +1,0 @@
-{"name":"Natsu","nickname":"Salamander","n1":"0","n2":"2"}
